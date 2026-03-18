@@ -13,3 +13,9 @@
 .food-item-info{
     padding: 20px;
 }
+.food-item-name-rating{
+    display: flex;
+ justify-content: space-between;
+ align-items: center;
+margin-bottom: 10px;
+}
